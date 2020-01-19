@@ -8,6 +8,8 @@ function App() {
       <h1>Hi, I'm React App</h1>
       <p>This is realy working!</p>
       <Person />
+      <Person />
+      <Person />
     </div>
   );
 }
